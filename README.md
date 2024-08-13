@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi I'm Deepak! 👋
 
+🚀 Data Whisperer | ML Sorcerer | Code Alchemist
+
+🎓 Studying Computer Science at NYU after earning my B.Tech in Math & Computing from IITD
+🔭 Bringing my 2 cents to AI—applying ML magic across domains
+👴 4+ years of industry experience in playing with ML with continuous learning in this endless space
+👯 Looking to collaborate on 0-1 product ideas around leveraging ML/AI in real-world problems
+💬 Reach out to me @deepakchaurasia.work@gmail.com
 <!--
 **Deepak-Work/Deepak-Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
