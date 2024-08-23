@@ -1,4 +1,4 @@
-## Hi I'm Deepak! 👋
+## Hi, I'm Deepak! 👋
 
 🚀 AI/ML Researcher | Finance Enthusiast | On the lookout for interesting projects
 
